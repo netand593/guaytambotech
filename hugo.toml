@@ -1,0 +1,8 @@
+baseURL = 'https://guaytambo.tech/'
+languageCode = 'en-us'
+title = 'ABC Widgets, Inc.'
+[params]
+  subtitle = 'The Best Widgets on Earth'
+  [params.contact]
+    email = 'andres.zurita8@gmail.com'
+    phone = '+49 555 666 771'
