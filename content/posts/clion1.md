@@ -4,6 +4,8 @@ draft = false
 title = 'Clion1'
 +++
 
+# Finland and Germany show deep concern over possible sabotage of submarine cable in Baltic Sea
+
 
 The C-Lion1 submarine cable, also known as Sea Lion, is a critical fiber-optic communication link connecting Finland and Germany. Spanning approximately 1,173 kilometers under the Baltic Sea, it provides a direct, low-latency, and secure internet backbone between the Nordic region and Central Europe.
 
