@@ -6,7 +6,14 @@
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Thu, 21 Nov 2024 17:05:16 +0100</lastBuildDate>
     <atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Clion1</title>
+      <link>https://example.org/posts/clion1/</link>
+      <pubDate>Thu, 21 Nov 2024 17:05:16 +0100</pubDate>
+      <guid>https://example.org/posts/clion1/</guid>
+      <description>&lt;h1 id=&#34;finland-and-germany-show-deep-concern-over-possible-sabotage-of-submarine-cable-in-baltic-sea&#34;&gt;Finland and Germany show deep concern over possible sabotage of submarine cable in Baltic Sea&lt;/h1&gt;&#xA;&lt;p&gt;The C-Lion1 submarine cable, also known as Sea Lion, is a critical fiber-optic communication link connecting Finland and Germany. Spanning approximately 1,173 kilometers under the Baltic Sea, it provides a direct, low-latency, and secure internet backbone between the Nordic region and Central Europe.&lt;/p&gt;&#xA;&lt;h2 id=&#34;key-features&#34;&gt;Key Features:&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Landing Points: The cable has landing stations in Helsinki and Hanko, Finland, and Rostock, Germany.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
