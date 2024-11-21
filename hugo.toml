@@ -1,8 +1,4 @@
-baseURL = 'https://guaytambo.tech/'
+baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'ABC Widgets, Inc.'
-[params]
-  subtitle = 'The Best Widgets on Earth'
-  [params.contact]
-    email = 'andres.zurita8@gmail.com'
-    phone = '+49 555 666 771'
+title = 'My New Hugo Site'
+theme = 'hugoplate'
